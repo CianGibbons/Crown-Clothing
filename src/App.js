@@ -11,7 +11,7 @@ const HatsPage = () => (
 );
 const JacketsPage = () => (
   <div>
-    <h1>Jackets Page</h1>
+    <h1>Jacket Page</h1>
   </div>
 );
 const SneakersPage = () => (
